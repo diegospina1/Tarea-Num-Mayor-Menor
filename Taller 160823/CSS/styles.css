@@ -1,0 +1,41 @@
+#bodi{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    display: block;
+}
+h1{
+    margin: 2%;
+    padding: 10px;
+    font-size: 40px;
+}
+label{
+    font-size: 25px;
+    padding: 10px;
+    margin: 2%;
+}
+input,button{
+    display: block;
+    position: relative;
+    margin-top: 1%;
+    left: 100px;
+}
+button{
+    left:150px;
+    border-color: aquamarine;
+    background-color: aquamarine;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+button:hover{
+    background-color: rgb(80, 225, 177);
+}
+input{
+    background-color:rgb(80, 225, 177);
+}
+#sec2,#sec3{
+    display: block;
+    position: relative;
+    margin-top: 1%;
+    left: 100px;
+}
